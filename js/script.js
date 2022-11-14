@@ -13,7 +13,9 @@ while(i<shopList.length && shopList.length!=0){
     i++
 }
 
-
+// for(let i=0; i<shopList.length; i++){
+//     list.innerHTML+=`<li>${shopList[i]}</li>`
+// }
 
 ok.addEventListener("click",
     function(){
