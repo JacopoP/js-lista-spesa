@@ -26,3 +26,12 @@ button{
     padding: 2px 5px;
     cursor: pointer;
 }
+
+input{
+    font-size: inherit;
+    padding: 2px 5px;
+}
+
+h3{
+    margin: 15px 0 10px;
+}
